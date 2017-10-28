@@ -1,0 +1,72 @@
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.pdb
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\bin\Debug\Information.dll
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\bin\Debug\Information.pdb
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csprojResolveAssemblyReference.cache
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.Properties.Resources.resources
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csproj.GenerateResource.Cache
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+C:\C# TEST\Multi-Connection\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.ServerForm.resources
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.dll
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csprojResolveAssemblyReference.cache
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.Properties.Resources.resources
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.ServerForm.resources
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csproj.GenerateResource.Cache
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe
+C:\C# TEST\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.dll
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.Properties.Resources.resources
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.ServerForm.resources
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csproj.GenerateResource.Cache
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.pdb
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.dll
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.pdb
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csprojResolveAssemblyReference.cache
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.Properties.Resources.resources
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.ServerForm.resources
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csproj.GenerateResource.Cache
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.dll
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csprojResolveAssemblyReference.cache
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.Properties.Resources.resources
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.ServerForm.resources
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+D:\北大資工課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+D:\北大資工課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+D:\北大資工課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe.config
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.exe
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.exe
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Multi-Threaded Server.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.dll
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\bin\Debug\Information.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csprojResolveAssemblyReference.cache
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.Properties.Resources.resources
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi_Threaded_Server.ServerForm.resources
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Server\obj\Debug\Multi-Threaded Server.csproj.GenerateResource.Cache

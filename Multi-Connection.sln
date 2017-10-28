@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Threaded Server", "Multi-Threaded Server\Multi-Threaded Server.csproj", "{8E10FDB5-AC75-48C6-8831-E9D47DE2D545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Information", "Information\Information.csproj", "{6F052E7E-8E43-4F54-B9F1-8A49C97D3034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Threaded Client", "Multi-Threaded Client\Multi-Threaded Client.csproj", "{4E5009F2-AECF-4D30-87B8-13F45126D019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E10FDB5-AC75-48C6-8831-E9D47DE2D545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E10FDB5-AC75-48C6-8831-E9D47DE2D545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E10FDB5-AC75-48C6-8831-E9D47DE2D545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E10FDB5-AC75-48C6-8831-E9D47DE2D545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F052E7E-8E43-4F54-B9F1-8A49C97D3034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F052E7E-8E43-4F54-B9F1-8A49C97D3034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F052E7E-8E43-4F54-B9F1-8A49C97D3034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F052E7E-8E43-4F54-B9F1-8A49C97D3034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E5009F2-AECF-4D30-87B8-13F45126D019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5009F2-AECF-4D30-87B8-13F45126D019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5009F2-AECF-4D30-87B8-13F45126D019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5009F2-AECF-4D30-87B8-13F45126D019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

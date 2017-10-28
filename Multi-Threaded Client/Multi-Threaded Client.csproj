@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E5009F2-AECF-4D30-87B8-13F45126D019}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Multi_Threaded_Client</RootNamespace>
+    <AssemblyName>Multi-Threaded Client</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientForm.Designer.cs">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Networking\ClientSocket.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ClientForm.resx">
+      <DependentUpon>ClientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Information\Information.csproj">
+      <Project>{6f052e7e-8e43-4f54-b9f1-8a49c97d3034}</Project>
+      <Name>Information</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceBattleHomepage.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\國王.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\皇后.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\王子.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\公主.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LeftButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RightButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\封面背景.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\island-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\白骰子.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\紅骰子.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\紫骰子.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\黃骰子.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\綠骰子.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\藍骰子.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\白旗.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\紅旗.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\紫旗.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\黃旗.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\綠旗.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\藍旗.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Music\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\綠骰動畫.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceB1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceB2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceB3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceB4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceB5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceB6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceG1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceG2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceG3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceG4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceG5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceG6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceP1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceP2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceP3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceP4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceP5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceP6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceR1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceR2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceR3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceR4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceR5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceR6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceW1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceW2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceW3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceW4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceW5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceW6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceY1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceY2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceY3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceY4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceY5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiceY6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\問號3.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

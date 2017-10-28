@@ -1,0 +1,77 @@
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe.config
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.pdb
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\bin\Debug\Information.dll
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\bin\Debug\Information.pdb
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.Properties.Resources.resources
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csproj.GenerateResource.Cache
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.exe
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.pdb
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csprojResolveAssemblyReference.cache
+C:\C# TEST\Multi-Connection\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.ClientForm.resources
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe.config
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.pdb
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.dll
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csprojResolveAssemblyReference.cache
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.ClientForm.resources
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.Properties.Resources.resources
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csproj.GenerateResource.Cache
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.exe
+C:\C# TEST\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe.config
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.exe
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.dll
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.pdb
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.ClientForm.resources
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.Properties.Resources.resources
+C:\Users\USER\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csproj.GenerateResource.Cache
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe.config
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.pdb
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.dll
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.pdb
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csprojResolveAssemblyReference.cache
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.ClientForm.resources
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.Properties.Resources.resources
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csproj.GenerateResource.Cache
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.exe
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe.config
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.exe
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.dll
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csprojResolveAssemblyReference.cache
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.ClientForm.resources
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.Properties.Resources.resources
+C:\C# TEST\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe.config
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.pdb
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.dll
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.pdb
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.ClientForm.resources
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.Properties.Resources.resources
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.exe
+C:\Users\USER\Desktop\骰子戰爭 (1)\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe.config
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.exe
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Multi-Threaded Client.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.dll
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\bin\Debug\Information.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csprojResolveAssemblyReference.cache
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.ClientForm.resources
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi_Threaded_Client.Properties.Resources.resources
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.csproj.GenerateResource.Cache
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.exe
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Multi-Threaded Client\obj\Debug\Multi-Threaded Client.pdb

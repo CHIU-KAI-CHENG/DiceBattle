@@ -1,0 +1,25 @@
+C:\C# TEST\Multi-Connection\Information\bin\Debug\Information.dll
+C:\C# TEST\Multi-Connection\Information\bin\Debug\Information.pdb
+C:\C# TEST\Multi-Connection\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache
+C:\C# TEST\Multi-Connection\Information\obj\Debug\Information.dll
+C:\C# TEST\Multi-Connection\Information\obj\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\Information\bin\Debug\Information.dll
+C:\C# TEST\骰子戰爭\Information\bin\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\Information\obj\Debug\Information.dll
+C:\C# TEST\骰子戰爭\Information\obj\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Information\bin\Debug\Information.dll
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Information\bin\Debug\Information.pdb
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.dll
+C:\Users\kent\Desktop\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Information\bin\Debug\Information.dll
+C:\C# TEST\骰子戰爭\骰子戰爭\Information\bin\Debug\Information.pdb
+C:\C# TEST\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache
+C:\C# TEST\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.dll
+C:\C# TEST\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Information\bin\Debug\Information.dll
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Information\bin\Debug\Information.pdb
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.csprojResolveAssemblyReference.cache
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.dll
+D:\課業\必修\骰子戰爭 無背景音樂\骰子戰爭\骰子戰爭\Information\obj\Debug\Information.pdb
